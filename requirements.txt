@@ -19,6 +19,6 @@ gunicorn
 you-get
 request
 requests
-
+gevent
 beautifulsoup4
 bs4
